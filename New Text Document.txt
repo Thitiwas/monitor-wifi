@@ -1,0 +1,47 @@
+  {{data2.int[27]}} <br>
+        {{data2.port[27]}} <br>
+        {{data2.time[27]}} <br>
+        {{data2.inbound[27]}} <br>
+        {{data2.outbound[27]}} <hr>
+
+        {{data2.int[28]}} <br>
+        {{data2.port[28]}} <br>
+        {{data2.time[28]}} <br>
+        {{data2.inbound[28]}} <br>
+        {{data2.outbound[28]}} <hr>
+
+        {{data2.int[29]}} <br>
+        {{data2.port[29]}} <br>
+        {{data2.time[29]}} <br>
+        {{data2.inbound[29]}} <br>
+        {{data2.outbound[29]}} <hr>
+
+        {{data2.int[30]}} <br>
+        {{data2.port[30]}} <br>
+        {{data2.time[30]}} <br>
+        {{data2.inbound[30]}} <br>
+        {{data2.outbound[30]}} <hr>
+
+        {{data2.int[31]}} <br>
+        {{data2.port[31]}} <br>
+        {{data2.time[31]}} <br>
+        {{data2.inbound[31]}} <br>
+        {{data2.outbound[31]}} <hr>
+
+        {{data2.int[32]}} <br>
+        {{data2.port[32]}} <br>
+        {{data2.time[32]}} <br>
+        {{data2.inbound[32]}} <br>
+        {{data2.outbound[32]}} <hr>
+
+        {{data2.int[33]}} <br>
+        {{data2.port[33]}} <br>
+        {{data2.time[33]}} <br>
+        {{data2.inbound[33]}} <br>
+        {{data2.outbound[33]}} <hr>
+
+        {{data2.int[34]}} <br>
+        {{data2.port[34]}} <br>
+        {{data2.time[34]}} <br>
+        {{data2.inbound[34]}} <br>
+        {{data2.outbound[34]}} <hr>
